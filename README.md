@@ -1,8 +1,7 @@
 # flask_github_app
 to create the database and update the records run:
 python github_load.py
-# to run the flask program 
-#first install flask
+# to run the flask program first install flask
 
 pip install flask
 # to run the web program
