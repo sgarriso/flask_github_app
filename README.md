@@ -1,5 +1,5 @@
 # flask_github_app
-to create the database and update the records run:
+# run the github_load.py in the background this will pull 200 records from github wait an hour and try to update any records that have changed in the past hour
 python github_load.py
 # to run the flask program first install flask
 
